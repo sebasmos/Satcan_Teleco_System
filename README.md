@@ -1,4 +1,4 @@
-# SATCAN telecommunications system 
+# SATCAN Intro
 First a physical analysis of the system is performed, in particular calculations of the satellite's sink rate, time, acceleration and propeller design. Second, the electronic components are selected according to the system requirements and then the design and implementation of these components is carried out. Third, the satellite is designed in CAD and finally a set of tests are carried out to validate the satellite subsystems.
 
 # Telecommunications system
